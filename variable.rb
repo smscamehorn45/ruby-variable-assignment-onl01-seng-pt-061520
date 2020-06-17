@@ -2,4 +2,4 @@
  # give it the value of the string "Hello World"
 
 
-Greeting = "Hello World"
+greeting = "Hello World"
